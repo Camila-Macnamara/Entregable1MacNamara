@@ -48,7 +48,7 @@ const medicamento1 = {
     );
   }
   
-  // Función para mostrar el historial de cálculos
+  // Función 3 para mostrar el historial de cálculos
   function mostrarHistorial() {
     if (historialCalculos.length === 0) {
       alert("No hay cálculos en el historial.");
@@ -62,7 +62,7 @@ const medicamento1 = {
     }
   }
   
-  // Función 3, principal
+  // Función 4, principal
   function iniciarCalculadora() {
     let continuar = true;
   
